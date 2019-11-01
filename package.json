@@ -1,0 +1,23 @@
+{
+  "name": "jello",
+  "version": "1.0.0",
+  "description": "Job Trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butterflyone/jello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butterflyone/jello/issues"
+  },
+  "homepage": "https://github.com/butterflyone/jello#readme",
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  }
+}
