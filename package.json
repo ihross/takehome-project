@@ -19,5 +19,9 @@
   "homepage": "https://github.com/butterflyone/jello#readme",
   "devDependencies": {
     "json-server": "^0.15.1"
+  },
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
   }
 }
